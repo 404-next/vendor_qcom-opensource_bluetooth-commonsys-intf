@@ -77,7 +77,7 @@ PRODUCT_PACKAGES += fm_helium
 PRODUCT_PACKAGES += libfm-hci
 PRODUCT_PACKAGES += FM2
 PRODUCT_PACKAGES += qcom.fmradio
-PRODUCT_BOOT_JARS += qcom.fmradio
+#PRODUCT_BOOT_JARS += qcom.fmradio
 PRODUCT_PACKAGES += vendor.qti.hardware.fm@1.0
 # system prop for fm
 PRODUCT_PROPERTY_OVERRIDES += vendor.hw.fm.init=0
